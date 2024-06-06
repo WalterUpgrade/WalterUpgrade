@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Walter, Front End developer from <img src="https://as2.ftcdn.net/v2/jpg/04/95/88/49/1000_F_495884926_6SNLeBMSa1cBlwVfuSNgS22F3NrWYDp4.jpg" width="13"/> <b>Mendoza, Argentina</b>, currently living in <img src="https://as1.ftcdn.net/v2/jpg/01/74/67/06/1000_F_174670655_0gpIoVJsQjBbCSCPp6YesrEQj6LIRxLI.jpg" width="13"/> <b>Madrid, Spain</b>. </p>
+</br> I'm Walter, Front End developer from <img src="https://as2.ftcdn.net/v2/jpg/04/95/88/49/1000_F_495884926_6SNLeBMSa1cBlwVfuSNgS22F3NrWYDp4.jpg" width="13"/> <b>Mendoza, Argentina</b>, currently living in <img src="https://as1.ftcdn.net/v2/jpg/01/74/67/06/1000_F_174670655_0gpIoVJsQjBbCSCPp6YesrEQj6LIRxLI.jpg" width="13"/> <b>Madrid, Spain</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
