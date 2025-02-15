@@ -11,11 +11,9 @@ I'm Walter, Front End developer from Mendoza Argentina, currently living in Madr
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
-
-
-<!-- STATS_START -->
-## 📊 Estadísticas de Repositorios 🚀
-
-- **Repositorios Públicos:** 0
-- **Repositorios Privados:** 0
-<!-- STATS_END -->
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WalterUpgrade&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterUpgrade&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
