@@ -13,8 +13,8 @@ I'm Walter, Front End developer from Mendoza Argentina, currently living in Madr
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WalterUpgrade&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterUpgrade&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WalterUpGrade&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterUpGrade&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   </a>
 </details>
 
