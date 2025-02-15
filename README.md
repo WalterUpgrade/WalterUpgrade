@@ -11,3 +11,11 @@ I'm Walter, Front End developer from Mendoza Argentina, currently living in Madr
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
+
+
+<!-- STATS_START -->
+## 📊 Estadísticas de Repositorios 🚀
+
+- **Repositorios Públicos:** 0
+- **Repositorios Privados:** 0
+<!-- STATS_END -->

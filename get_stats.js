@@ -3,7 +3,7 @@ const axios = require('axios');
 
 // Configuración
 const GITHUB_TOKEN = process.env.STATS;
-const USERNAME = 'WalterUpGrade';  // Cambia esto por tu nombre de usuario de GitHub
+const USERNAME = 'WalterUpgrade';  // Cambia esto por tu nombre de usuario de GitHub
 
 if (!GITHUB_TOKEN) {
     console.error("Error: La variable de entorno STATS no está definida.");
