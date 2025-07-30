@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Walter, Front End developer from Mendoza Argentina, currently living in Madrid, Spain.
+I'm Walter,
 Experienced web designer and SEO expert since 2024, helping brands grow with custom design, 
 proven strategy, and top search rankings.
 
