@@ -1,6 +1,5 @@
 # Hey There! 👋
-I'm Walter,
-Experienced web designer and SEO expert since 2024, helping brands grow with custom design, 
+I'm Walter. Experienced web designer and SEO expert since 2024, helping brands grow with custom design, 
 proven strategy, and top search rankings.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,react,angular,ts,css,sass,astro,vue,nextjs,threejs,appwrite,figma,stackoverflow,vite,tailwind,bootstrap,npm,nodejs,supabase,github,aws,mongodb,vercel,wordpress)](https://skillicons.dev)<br/>
