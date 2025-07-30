@@ -3,7 +3,7 @@ I'm Walter, Front End developer from Mendoza Argentina, currently living in Madr
 Experienced web designer and SEO expert since 2024, helping brands grow with custom design, 
 proven strategy, and top search rankings.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,react,angular,ts,css,astro,vue,nextjs,vite,tailwind,bootstrap,npm,nodejs,github,aws)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,react,angular,ts,css,astro,vue,nextjs,vite,tailwind,bootstrap,npm,nodejs,github,aws,wordpress)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/WalterUpgrade?tab=repositories)
 
 
